@@ -4,10 +4,10 @@ My research interests lie at the intersection of statistics, econometrics, and o
 
 **Research interests**
 
-- Transfer learning, quantile regression, and dimension reduction when samples are small and tails are heavy
-- Robust and nonasymptotic inference under misspecification, including how specification and benchmark choices drive conclusions
-- Inference with few or unequal clusters
-- Causal inference and measurement with imperfect data: natural experiments, language model labels, and missing data
-- Statistical learning and simulation for decisions under uncertainty, with applications in finance and energy
+- Econometric theory and microeconometrics
+- Statistical learning in high dimensions
+- Semiparametric and causal inference
+- Nonasymptotic estimation and uncertainty quantification
+- Statistical decision theory
 
 Papers and projects: [kirillsirik.github.io](https://kirillsirik.github.io/research/)
