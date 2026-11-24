@@ -9,5 +9,6 @@ My research interests lie at the intersection of statistics, econometrics, and o
 - Semiparametric and causal inference
 - Nonasymptotic estimation and uncertainty quantification
 - Statistical decision theory
+- Data-driven optimization and stochastic modeling
 
 Papers and projects: [kirillsirik.github.io](https://kirillsirik.github.io/research/)
